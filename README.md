@@ -33,13 +33,26 @@ I primarily created this for personal reference in future projects — but if yo
 
 ### 1. 🎭 GSAP Box Toggler  
 
-- **📂 Source:** `./src/components/gsap-box-toggler`  
+- **📂 Source:** `./src/components/gsap/gsap-box-toggler`  
 - **🛠 Tech Stack:** 
   <br/> 
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
 - **🔍 Preview:**  
 
-![GSAP Box Toggler](https://res.cloudinary.com/dnm4zdkxz/image/upload/v1741081469/portfolio-3d-components/box-toggler_ysagaz.gif)
+  ![GSAP Box Toggler](https://res.cloudinary.com/dnm4zdkxz/image/upload/v1741081469/portfolio-3d-components/box-toggler_ysagaz.gif)
+
+### 2. 🎭 Simple Rotating Cube
+
+- **📂 Source:** `./src/components/three/simple-rotating-cube`  
+- **🛠 Tech Stack:** 
+  <br/>
+  ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-5A29E4?logo=react&logoColor=white)  
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)  
+  ![Drei](https://img.shields.io/badge/Drei-5A29E4?logo=react&logoColor=white)  
+- **🔍 Preview:**
+
+  ![Simple Rotating Cube](https://res.cloudinary.com/dnm4zdkxz/image/upload/v1741099430/portfolio-3d-components/simple-rotating-cube_ra9di1.gif)
+
 
 ## 🤝 Contributing
 If you want to add/modify any cool animations or rectify any bug feel free to create a pull request.
