@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Portfolio 3D
 
-## Getting Started
+### Welcome, fellow developer! 👋
 
-First, run the development server:
+This repository isn't a full-fledged project or app — it's simply a collection of **cool 3D animations** often seen in modern portfolio websites for individuals or organizations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I primarily created this for personal reference in future projects — but if you're here to explore, you're absolutely welcome! 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Feel free to fork, use, or get inspired** 💪.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Purpose
+✅ Ready-to-use animations
+<br/>
+✅ Smooth 3D motion effects
+<br/>
+✅ Inspiration for portfolio designs
+<br/>
+✅ Modular components
 
-## Learn More
+## 🚀 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Technology                | Description                          | Badge                                         |
+|----------------------------|---------------------------------------|-----------------------------------------------|
+| **[Next.js](https://nextjs.org/docs)**               | React Framework                      | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) |
+| **[GSAP](https://gsap.com/resources/React/)**                  | Advanced Animations                  | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white) |
+| **[Three.js](https://threejs.org/)**              | 3D Graphics Library                  | ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js) |
+| **[React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction)**      | React Renderer for Three.js          | ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-5A29E4?logo=react) |
+| **[Theatre.js](https://www.theatrejs.com/)**            | Motion Design Tool                  | ![Theatre.js](https://img.shields.io/badge/Theatre.js-0D0D0D?logo=theatre) |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📦 Components List  
 
-## Deploy on Vercel
+### 1. 🎭 GSAP Box Toggler  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **📂 Source:** `./src/components/gsap-box-toggler`  
+- **🛠 Tech Stack:** 
+  <br/> 
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
+- **🔍 Preview:**  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<video width="600" loop autoplay muted>
+  <source src="https://res.cloudinary.com/dnm4zdkxz/video/upload/v1741075497/portfolio-3d-components/box-toggler_c7fztt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+## 🤝 Contributing
+If you want to add/modify any cool animations or rectify any bug feel free to create a pull request.
+
+### Made with ❤️ by Rajarshi Dutta
