@@ -39,11 +39,7 @@ I primarily created this for personal reference in future projects — but if yo
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
 - **🔍 Preview:**  
 
-<video width="600" loop autoplay muted>
-  <source src="https://res.cloudinary.com/dnm4zdkxz/video/upload/v1741075497/portfolio-3d-components/box-toggler_c7fztt.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![GSAP Box Toggler](https://res.cloudinary.com/dnm4zdkxz/image/upload/v1741081469/portfolio-3d-components/box-toggler_ysagaz.gif)
 
 ## 🤝 Contributing
 If you want to add/modify any cool animations or rectify any bug feel free to create a pull request.
